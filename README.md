@@ -13,7 +13,9 @@ This repository contains the SQL schema and ERD for a Hospital Management System
 ## ERD
 The ERD illustrates the relationships between various entities such as Patients, Doctors, Departments, and others. 
 
-(HMS .png)
+
+![HMS](https://github.com/Sort617/Hospital-Management-System/assets/44879300/124d7b09-ff84-4421-aadc-669b3c3a3a2c)
+
 
 ## SQL Schema
 The schema includes table creation statements and relationship definitions to set up the database.
